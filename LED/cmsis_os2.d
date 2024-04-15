@@ -1,0 +1,12 @@
+led\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c
+led\cmsis_os2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+led\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
+led\cmsis_os2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+led\cmsis_os2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+led\cmsis_os2.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+led\cmsis_os2.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+led\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+led\cmsis_os2.o: ../Core/Inc/FreeRTOSConfig.h
+led\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+led\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+led\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h

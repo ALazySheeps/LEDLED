@@ -1,0 +1,9 @@
+led\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+led\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+led\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+led\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+led\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+led\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+led\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+led\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+led\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h

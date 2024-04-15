@@ -1,0 +1,9 @@
+led\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+led\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+led\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+led\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+led\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+led\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+led\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+led\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+led\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
